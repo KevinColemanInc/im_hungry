@@ -39,5 +39,5 @@ Gem::Specification.new do |spec|
   spec.add_development_dependency 'rspec', '~> 3.0'
   spec.executables = ['im_hungry']
 
-  spec.add_dependency 'tzinfo', '1.2.5'
+  spec.add_dependency 'tzinfo', '2.0.5'
 end
